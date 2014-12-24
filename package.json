@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/gaconkzk/Universal-LPC-Spritesheet-Character-Generator.git"
   },
+  "dependencies": {
+    "connect": ">= 3.3.0",
+    "serve-static": ">= 1.7.1"
+  },
   "keywords": [
     "LPC",
     "Spritesheet"
