@@ -1,0 +1,23 @@
+{
+  "name": "lpc-generator",
+  "version": "0.0.1",
+  "description": "This is a Generator for sprites based on Universal LPC Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaconkzk/Universal-LPC-Spritesheet-Character-Generator.git"
+  },
+  "keywords": [
+    "LPC",
+    "Spritesheet"
+  ],
+  "author": "gaconkzk",
+  "license": "GPL 3.0, CC-BY-SA 3.0",
+  "bugs": {
+    "url": "https://github.com/gaconkzk/Universal-LPC-Spritesheet-Character-Generator/issues"
+  },
+  "homepage": "https://github.com/gaconkzk/Universal-LPC-Spritesheet-Character-Generator"
+}
