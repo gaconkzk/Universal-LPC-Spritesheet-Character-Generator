@@ -9,5 +9,5 @@ Try it out at [sprite-generator.herokuapp.com] (http://sprite-generator.herokuap
 
 24-12-2014 
 
-    - I created my own site for my own changes on the project
-    - updated Github url on README.md
+- I created my own site for my own changes on the project
+- updated Github url on README.md
